@@ -2,7 +2,7 @@
 
 Analysis of the prediction accuracy of different fee estimation methods.
 
-## Dev Setup
+## Dev Setup
 
 Setup uses [Virtualenv](https://virtualenv.pypa.io/en/stable/).
 
