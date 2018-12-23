@@ -1,4 +1,6 @@
-# Ethereum Feeestimator Analysis
+# Ethereum Fee Estimation Analysis
+
+Analysis of the prediction accuracy of different fee estimation methods.
 
 ## Dev Setup
 
