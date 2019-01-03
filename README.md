@@ -13,6 +13,7 @@ source ./bin/activate
 python3 -m pip install --upgrade pip
 python3 -m pip install jupyter
 python3 -m pip install pandas
+python3 -m pip install matplotlib
 ```
 
 ## Work
